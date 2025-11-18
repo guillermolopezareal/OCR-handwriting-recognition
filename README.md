@@ -81,9 +81,6 @@ We compute:
 #### Image Preprocessing
 ![Image Preprocessing](images/ImagePreprocessing.png)
 
-#### Segmentation
-![Segmentation](images/segmentation.png)
-
 #### Output Char
 ![Output Char](images/Output_char.png)
 
