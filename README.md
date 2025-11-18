@@ -77,7 +77,17 @@ We compute:
 
 Add visuals like:
 #### Description of the data
-![Description of the data](images/description of the data.png)
+![Description of the data](images/datadescription.png)
 
 #### Image Preprocessing
 ![Image Preprocessing](images/ImagePreprocessing.png)
+
+#### Segmentation
+![Segmentation](images/segmentation.png)
+
+#### Output Char
+![Output Char](images/Output_char.png)
+
+
+#### Model Performance
+![Model Performance](images/modelperformance.png)
