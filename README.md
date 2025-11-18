@@ -75,7 +75,6 @@ We compute:
 ### **Full-sentence OCR accuracy: 36%**  
 (Difficult due to very similar letter shapes and segmentation complexity)
 
-Add visuals like:
 #### Description of the data
 ![Description of the data](images/datadescription.png)
 
@@ -91,3 +90,5 @@ Add visuals like:
 
 #### Model Performance
 ![Model Performance](images/modelperformance.png)
+
+
