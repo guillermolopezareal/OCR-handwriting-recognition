@@ -76,3 +76,8 @@ We compute:
 (Difficult due to very similar letter shapes and segmentation complexity)
 
 Add visuals like:
+#### Description of the data
+![Description of the data](images/description of the data.png)
+
+#### Image Preprocessing
+![Image Preprocessing](images/ImagePreprocessing.png)
